@@ -4,6 +4,7 @@ import pyautogui
 import time
 import math
 
+
 # Initialize MediaPipe Hands
 mp_drawing = mp.solutions.drawing_utils
 mp_hands = mp.solutions.hands
